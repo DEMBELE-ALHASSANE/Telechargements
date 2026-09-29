@@ -59,20 +59,42 @@ Chaque notion devient une **enquête** : une situation de la vraie vie, une exp�
 | ![Entraînement](captures/4-entrainement.png) | ![Progrès](captures/6-progres.png) |
 | **L'entraînement infini** : libre, chrono ou rituel du soir | **Les progrès** : maîtrise, série et révisions à venir |
 
-## 🚀 Démarrer en 3 étapes
+## 💻 Installer sur PC (Windows 10 ou 11)
 
-1. **Télécharge** la version portable ou l'installateur (liens en haut de la page).
-2. **Lance** le fichier. Si Windows affiche « Windows a protégé votre ordinateur », clique sur **Informations complémentaires**, puis sur **Exécuter quand même** : le logiciel n'est simplement pas encore signé numériquement.
-3. **Commence** par *Modules → Statistiques et probabilités → Saison B · Les bases*.
+### Option A · Version portable 💼 (idéale pour essayer)
+
+1. Clique sur **💼 Version portable** en haut de cette page.
+2. Si ton navigateur signale un fichier « rarement téléchargé » : sur **Edge**, clique sur **⋯** puis **Conserver** ; sur **Chrome**, clique sur **Conserver**.
+3. Ouvre ton dossier **Téléchargements** et double-clique sur le fichier `EnqueteurData-v0.8.0-portable.exe`.
+4. Si Windows affiche « Windows a protégé votre ordinateur » : clique sur **Informations complémentaires**, puis sur **Exécuter quand même**. Ce message apparaît parce que le logiciel n'est pas encore signé numériquement.
+5. C'est prêt 🎉 Astuce : copie le fichier sur ton Bureau ou sur une clé USB pour le relancer facilement.
+
+### Option B · Installateur 📦 (idéal pour tous les jours)
+
+1. Clique sur **📦 Installateur** en haut de cette page.
+2. Double-clique sur le fichier `EnqueteurData_0.8.0_x64-setup.exe` (même message Windows possible : **Informations complémentaires** → **Exécuter quand même**).
+3. Clique sur **Suivant**, puis **Installer**, puis **Terminer**. Aucun droit administrateur n'est demandé.
+4. Lance **Enquêteur Data** depuis le menu Démarrer.
+
+| Besoin | Comment faire |
+|---|---|
+| 🔄 Mettre à jour | Télécharge la nouvelle version et lance-la : ta progression est conservée sur le même ordinateur |
+| 🗑️ Désinstaller | Paramètres → Applications → Enquêteur Data → Désinstaller |
+| 🧭 Par où commencer | Modules → Statistiques et probabilités → Saison B · Les bases |
+
+## 📱 Installer sur Android
+
+🚧 **En préparation.** L'application Android n'est pas encore disponible. Dès qu'elle sera prête, son fichier `.apk` apparaîtra sur cette page avec son guide d'installation pas à pas.
 
 ## ❓ Questions fréquentes
 
 | Question | Réponse |
 |---|---|
 | Faut-il Internet ? | Non. Tout fonctionne hors ligne. |
+| La version portable ne s'ouvre pas ? | Sur certains anciens Windows 10, il manque le composant Microsoft WebView2 : utilise l'installateur, qui l'ajoute tout seul (Internet nécessaire une seule fois). |
 | Où est enregistrée ma progression ? | Sur l'ordinateur utilisé. Sur un autre PC, la progression repart de zéro. |
 | Portable ou installateur ? | Portable pour essayer ou pour une clé USB, installateur pour l'utiliser tous les jours. |
-| Ça marche sur Mac ou téléphone ? | Pas encore : Windows 10 et 11 uniquement pour l'instant. |
+| Ça marche sur Mac ou téléphone ? | Pas encore : Windows 10 et 11 pour l'instant. La version Android est en préparation. |
 
 ## 🆕 Journal des versions
 
