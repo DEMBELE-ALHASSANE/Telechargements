@@ -14,7 +14,7 @@
 
 **[💼 Version portable (5,5 Mo)](https://github.com/DEMBELE-ALHASSANE/Telechargements/releases/download/maitrise-v0.9.0/Maitrise-v0.9.0-portable.exe)** · sans installation, même sur clé USB
 
-**[📦 Installateur (2,7 Mo)](https://github.com/DEMBELE-ALHASSANE/Telechargements/releases/download/maitrise-v0.9.0/EnqueteurData_0.8.0_x64-setup.exe)** · avec raccourci dans le menu Démarrer
+**[📦 Installateur (2,7 Mo)](https://github.com/DEMBELE-ALHASSANE/Telechargements/releases/download/maitrise-v0.9.0/Maitrise_0.9.0_x64-setup.exe)** · avec raccourci dans le menu Démarrer
 
 </div>
 
