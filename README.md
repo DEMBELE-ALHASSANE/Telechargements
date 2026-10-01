@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="captures/logo.png" width="96" alt="Logo Enquêteur Data" />
+<img src="captures/logo.png" width="96" alt="Logo Maîtrise" />
 
-# 🔎 Enquêteur Data
+# 🎓 Maîtrise
 
-### Comprendre ses cours de Master… comme on résout une enquête.
+### Comprendre ses cours de Master de A à Z.
 
-![Version](https://img.shields.io/badge/version-0.8.0-3F7D74?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-0.9.0-3F7D74?style=for-the-badge)
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-5B7FA6?style=for-the-badge&logo=windows&logoColor=white)
 ![Hors ligne](https://img.shields.io/badge/fonctionne-hors%20ligne-C8795A?style=for-the-badge)
 
 ### ⬇️ Télécharger
 
-**[💼 Version portable (5,5 Mo)](https://github.com/DEMBELE-ALHASSANE/Telechargements/releases/download/enqueteurdata-v0.8.0/EnqueteurData-v0.8.0-portable.exe)** · sans installation, même sur clé USB
+**[💼 Version portable (5,5 Mo)](https://github.com/DEMBELE-ALHASSANE/Telechargements/releases/download/maitrise-v0.9.0/Maitrise-v0.9.0-portable.exe)** · sans installation, même sur clé USB
 
-**[📦 Installateur (2,7 Mo)](https://github.com/DEMBELE-ALHASSANE/Telechargements/releases/download/enqueteurdata-v0.8.0/EnqueteurData_0.8.0_x64-setup.exe)** · avec raccourci dans le menu Démarrer
+**[📦 Installateur (2,7 Mo)](https://github.com/DEMBELE-ALHASSANE/Telechargements/releases/download/maitrise-v0.9.0/EnqueteurData_0.8.0_x64-setup.exe)** · avec raccourci dans le menu Démarrer
 
 </div>
 
@@ -30,7 +30,7 @@ Chaque notion devient une **enquête** : une situation de la vraie vie, une exp�
 
 ## 🎯 Ce qui change tout
 
-| Réviser à l'ancienne | Avec Enquêteur Data |
+| Réviser à l'ancienne | Avec Maîtrise |
 |---|---|
 | On lit le polycopié et on espère | On **manipule** une expérience, puis on nomme ce qu'on a vu |
 | Les exercices s'épuisent, on retient les réponses | Des exercices **infinis** : les nombres changent, le raisonnement reste |
@@ -65,21 +65,21 @@ Chaque notion devient une **enquête** : une situation de la vraie vie, une exp�
 
 1. Clique sur **💼 Version portable** en haut de cette page.
 2. Si ton navigateur signale un fichier « rarement téléchargé » : sur **Edge**, clique sur **⋯** puis **Conserver** ; sur **Chrome**, clique sur **Conserver**.
-3. Ouvre ton dossier **Téléchargements** et double-clique sur le fichier `EnqueteurData-v0.8.0-portable.exe`.
+3. Ouvre ton dossier **Téléchargements** et double-clique sur le fichier `Maitrise-v0.9.0-portable.exe`.
 4. Si Windows affiche « Windows a protégé votre ordinateur » : clique sur **Informations complémentaires**, puis sur **Exécuter quand même**. Ce message apparaît parce que le logiciel n'est pas encore signé numériquement.
 5. C'est prêt 🎉 Astuce : copie le fichier sur ton Bureau ou sur une clé USB pour le relancer facilement.
 
 ### Option B · Installateur 📦 (idéal pour tous les jours)
 
 1. Clique sur **📦 Installateur** en haut de cette page.
-2. Double-clique sur le fichier `EnqueteurData_0.8.0_x64-setup.exe` (même message Windows possible : **Informations complémentaires** → **Exécuter quand même**).
+2. Double-clique sur le fichier `Maitrise_0.9.0_x64-setup.exe` (même message Windows possible : **Informations complémentaires** → **Exécuter quand même**).
 3. Clique sur **Suivant**, puis **Installer**, puis **Terminer**. Aucun droit administrateur n'est demandé.
-4. Lance **Enquêteur Data** depuis le menu Démarrer.
+4. Lance **Maîtrise** depuis le menu Démarrer.
 
 | Besoin | Comment faire |
 |---|---|
 | 🔄 Mettre à jour | Télécharge la nouvelle version et lance-la : ta progression est conservée sur le même ordinateur |
-| 🗑️ Désinstaller | Paramètres → Applications → Enquêteur Data → Désinstaller |
+| 🗑️ Désinstaller | Paramètres → Applications → Maîtrise → Désinstaller |
 | 🧭 Par où commencer | Modules → Statistiques et probabilités → Saison B · Les bases |
 
 ## 📱 Installer sur Android
@@ -100,6 +100,7 @@ Chaque notion devient une **enquête** : une situation de la vraie vie, une exp�
 
 | Version | Nouveautés |
 |---|---|
+| **0.9** | 🎓 Nouveau nom : **Maîtrise**. 📅 Carte « Ta semaine » sur l'accueil, emploi du temps modifiable dans Studio |
 | **0.8** | ⚖️ Mode Jury : grand oral simulé, 129 questions, note sur 20 et mention. Icône officielle et version téléchargeable |
 | **0.7** | 👥 Saison Couples (loi jointe, loi conditionnelle) et saison Fonctions caractéristiques |
 | **0.6** | 🪜 Leçons en 3 niveaux, glossaire au survol, saison des bases mathématiques |
