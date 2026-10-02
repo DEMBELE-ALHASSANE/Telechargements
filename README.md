@@ -6,15 +6,15 @@
 
 ### Comprendre ses cours de Master de A à Z.
 
-![Version](https://img.shields.io/badge/version-0.11.0-3F7D74?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-0.12.0-3F7D74?style=for-the-badge)
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-5B7FA6?style=for-the-badge&logo=windows&logoColor=white)
 ![Hors ligne](https://img.shields.io/badge/fonctionne-hors%20ligne-C8795A?style=for-the-badge)
 
 ### ⬇️ Télécharger
 
-**[💼 Version portable (5,6 Mo)](https://github.com/DEMBELE-ALHASSANE/Telechargements/releases/download/maitrise-v0.11.0/Maitrise-v0.11.0-portable.exe)** · sans installation, même sur clé USB
+**[💼 Version portable (5,7 Mo)](https://github.com/DEMBELE-ALHASSANE/Telechargements/releases/download/maitrise-v0.12.0/Maitrise-v0.12.0-portable.exe)** · sans installation, même sur clé USB
 
-**[📦 Installateur (2,8 Mo)](https://github.com/DEMBELE-ALHASSANE/Telechargements/releases/download/maitrise-v0.11.0/Maitrise_0.11.0_x64-setup.exe)** · avec raccourci dans le menu Démarrer
+**[📦 Installateur (2,9 Mo)](https://github.com/DEMBELE-ALHASSANE/Telechargements/releases/download/maitrise-v0.12.0/Maitrise_0.12.0_x64-setup.exe)** · avec raccourci dans le menu Démarrer
 
 </div>
 
@@ -65,14 +65,14 @@ Chaque notion devient une **enquête** : une situation de la vraie vie, une exp�
 
 1. Clique sur **💼 Version portable** en haut de cette page.
 2. Si ton navigateur signale un fichier « rarement téléchargé » : sur **Edge**, clique sur **⋯** puis **Conserver** ; sur **Chrome**, clique sur **Conserver**.
-3. Ouvre ton dossier **Téléchargements** et double-clique sur le fichier `Maitrise-v0.11.0-portable.exe`.
+3. Ouvre ton dossier **Téléchargements** et double-clique sur le fichier `Maitrise-v0.12.0-portable.exe`.
 4. Si Windows affiche « Windows a protégé votre ordinateur » : clique sur **Informations complémentaires**, puis sur **Exécuter quand même**. Ce message apparaît parce que le logiciel n'est pas encore signé numériquement.
 5. C'est prêt 🎉 Astuce : copie le fichier sur ton Bureau ou sur une clé USB pour le relancer facilement.
 
 ### Option B · Installateur 📦 (idéal pour tous les jours)
 
 1. Clique sur **📦 Installateur** en haut de cette page.
-2. Double-clique sur le fichier `Maitrise_0.11.0_x64-setup.exe` (même message Windows possible : **Informations complémentaires** → **Exécuter quand même**).
+2. Double-clique sur le fichier `Maitrise_0.12.0_x64-setup.exe` (même message Windows possible : **Informations complémentaires** → **Exécuter quand même**).
 3. Clique sur **Suivant**, puis **Installer**, puis **Terminer**. Aucun droit administrateur n'est demandé.
 4. Lance **Maîtrise** depuis le menu Démarrer.
 
@@ -100,6 +100,7 @@ Chaque notion devient une **enquête** : une situation de la vraie vie, une exp�
 
 | Version | Nouveautés |
 |---|---|
+| **0.12** | 🎲 Nouvelle saison Probabilités complétées : espace probabilisé, Bayes, indépendance, lois du khi-deux, de Student, de Fisher et Beta — 5 niveaux avec labos, exercices infinis et 15 questions de jury |
 | **0.11** | 📐 Nouvelle saison Algèbre linéaire pour la data : vecteurs, matrices, déterminant et inverse, valeurs propres (ACP), formes quadratiques, gradient — 6 niveaux avec labos, exercices infinis et 18 questions de jury |
 | **0.10** | 🧱 Saison B complétée : 5 nouveaux niveaux de bases (logique, produit et binôme, séries, maximum et DL, intégrales doubles), avec labos, exercices infinis et 15 questions de jury |
 | **0.9.1** | 👋 Fenêtre de bienvenue : le logiciel t'appelle par ton prénom (modifiable dans Studio → Profil) |
